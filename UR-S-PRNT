@@ -1,0 +1,165 @@
+ 01/31/22                                        MASTERMIND COBOL, INC                                    PAGE   1
+   EMP ID      SSN            NAME                                  TYPE  TITLE                  DATE
+                                  LAST            FIRST
+
+   1234567    111-22-3333     FRUFRU             LULU                10    ANALYST               10/18/1977
+                                                                     DEDUCT:     393.00    RATE:   5,542.99    S
+                                                                                 428.00
+                                                                                   3.18
+                                                                                 380.03
+                                                                                 103.18
+                                                                     TOTAL:   $1,307.00
+
+   1436588    134-52-8903     WALK               SUE                 08    PROGRAMMER            11/23/2000
+                                                                     DEDUCT:     567.00    RATE:     434.99    H
+                                                                                 346.78
+                                                                                 321.78
+                                                                                 532.99
+                                                                                 324.99
+                                                                     TOTAL:   $2,090.00
+
+   4589300    254-86-8483     FRAKER             RICHARD             01    PLANNER               06/05/2003
+                                                                     DEDUCT:     654.00    RATE:     342.99    H
+                                                                                 563.59
+                                                                                  95.30
+                                                                                 930.59
+                                                                                  93.50
+                                                                     TOTAL:   $2,335.00
+
+
+
+
+
+ 01/31/22                                        MASTERMIND COBOL, INC                                    PAGE   2
+   EMP ID      SSN            NAME                                  TYPE  TITLE                  DATE
+                                  LAST            FIRST
+
+   1234567    343-43-4444     URFURF             PETE                09    DISASTER RECOVERY     03/23/1977
+                                                                     DEDUCT:     542.00    RATE:   4,440.00    S
+                                                                                 525.24
+                                                                                 924.99
+                                                                                 924.52
+                                                                                 459.00
+                                                                     TOTAL:   $3,374.00
+
+   3849838    483-93-8883     WASHINGTON         SUSANNAH            04    SYSTEM ANALYST        12/14/1995
+                                                                     DEDUCT:     542.00    RATE:   6,579.99    S
+                                                                                 542.59
+                                                                                 245.92
+                                                                                 486.94
+                                                                                 592.42
+                                                                     TOTAL:   $2,407.00
+
+   9865878    247-95-8499     MOORE              JOHNNIE             07    DRIVER                03/23/1996
+                                                                     DEDUCT:     542.00    RATE:     111.00    H
+                                                                                 596.94
+                                                                                 690.24
+                                                                                 969.24
+                                                                                 699.92
+                                                                     TOTAL:   $3,496.00
+
+
+
+
+
+ 01/31/22                                        MASTERMIND COBOL, INC                                    PAGE   3
+   EMP ID      SSN            NAME                                  TYPE  TITLE                  DATE
+                                  LAST            FIRST
+
+   7494883    038-64-8844     MUNCHMORE          IGOR                02    VALET                 07/14/1985
+                                                                     DEDUCT:     432.00    RATE:   6,666.66    S
+                                                                                 589.09
+                                                                                 560.42
+                                                                                 680.45
+                                                                                  24.95
+                                                                     TOTAL:   $2,285.00
+
+   0557733    223-34-4556     ANT                JUAN                05    DISH WASHER           07/12/1990
+                                                                     DEDUCT:     524.00    RATE:     666.66    H
+                                                                                 864.26
+                                                                                 808.62
+                                                                                 454.34
+                                                                                 463.63
+                                                                     TOTAL:   $3,113.00
+
+   5585858    999-99-7777     PANTHER            PAULA               06    MANAGER               09/23/1986
+                                                                     DEDUCT:     543.00    RATE:      15.00    H
+                                                                                 298.58
+                                                                                 294.80
+                                                                                 820.46
+                                                                                  99.24
+                                                                     TOTAL:   $2,054.00
+
+
+
+
+
+ 01/31/22                                        MASTERMIND COBOL, INC                                    PAGE   4
+   EMP ID      SSN            NAME                                  TYPE  TITLE                  DATE
+                                  LAST            FIRST
+
+   1234567    111-22-3333     FRUFRU             LUCAS               10    ANALYST               10/18/1977
+                                                                     DEDUCT:     542.00    RATE:       0.01    H
+                                                                                 424.50
+                                                                                  85.42
+                                                                                 569.96
+                                                                                  95.66
+                                                                     TOTAL:   $1,715.00
+
+   1436588    134-52-8903     GRIFFIN            PETER               08    PROGRAMMER            11/23/2000
+                                                                     DEDUCT:     425.00    RATE:   9,999.99    S
+                                                                                 593.28
+                                                                                 535.25
+                                                                                 992.20
+                                                                                 999.92
+                                                                     TOTAL:   $3,544.00
+
+   4589300    254-86-8483     BARNES             BINKY               01    PLANNER               06/05/2003
+                                                                     DEDUCT:     999.00    RATE:   1,010.10    S
+                                                                                 999.99
+                                                                                 999.99
+                                                                                 999.99
+                                                                                 999.99
+                                                                     TOTAL:   $4,995.00
+
+
+
+
+
+ 01/31/22                                        MASTERMIND COBOL, INC                                    PAGE   5
+   EMP ID      SSN            NAME                                  TYPE  TITLE                  DATE
+                                  LAST            FIRST
+
+   1234567    343-43-4444     URFURF             PETE                09    DISASTER RECOVERY     03/23/1977
+                                                                     DEDUCT:     234.00    RATE:     101.01    H
+                                                                                 943.84
+                                                                                  30.32
+                                                                                 402.24
+                                                                                 304.04
+                                                                     TOTAL:   $1,913.00
+
+   3849838    483-93-8883     WASHINGTON         SUSANNAH            04    SYSTEM ANALYST        12/14/1995
+                                                                     DEDUCT:       0.00    RATE:   4,533.42    S
+                                                                                   0.00
+                                                                                   0.00
+                                                                                   0.00
+                                                                                   0.00
+                                                                     TOTAL:   $    0.00
+
+   9865878    247-95-8499     OCAP               PACO                07    DRIVER                03/23/1996
+                                                                     DEDUCT:     111.00    RATE:   4,378.49    S
+                                                                                 111.11
+                                                                                 111.11
+                                                                                 111.11
+                                                                                 111.11
+                                                                     TOTAL:   $  555.00
+
+
+
+
+
+ 01/31/22                                        MASTERMIND COBOL, INC                                    PAGE   6
+
+NUMBER OF EMPLOYEE RECORDS READ:               15
+NUMBER OF HOURLY EMPLOYEES:                     7    AVERAGE HOURLY RATE:          $238.81        TOTAL DEDUCT: $   351.83
+NUMBER OF SALARIED EMPLOYEES:                   8    AVERAGE SALARIED RATE:     $ 5,393.96
